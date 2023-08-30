@@ -1,8 +1,8 @@
 <img src="https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif" alt="Header GIF" width="100%" />
 <h1 align="center">Hi 👋, I'm Pablo Rando Alcalá</h1>
-<h3 align="center">A passionate software developer and sysadmin from Spain</h3>
+<h3 align="center">A passionate software developer and sysadmin from Málaga, Spain</h3>
 
-- 🔭 I’m currently studying on **42 school**. See my [Cursus projects](https://github.com/prando-a/42Cursus)
+- 🔭 I’m currently studying at **42School**, in Málaga. See my [Cursus projects](https://github.com/prando-a/42Cursus)
 
 - 🌱 I’m currently learning **C programming language** <br>
 
