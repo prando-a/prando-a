@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Rando Alcalá</h1>
 <h3 align="center">A passionate software developer and sysadmin from Spain</h3>
 
-- 🔭 I’m currently studying on **42 school**
+- 🔭 I’m currently studying on **42 school**. See my [Cursus projects](https://github.com/prando-a/42Cursus)
 
 - 🌱 I’m currently learning **C programming language**
 
