@@ -4,8 +4,9 @@
 
 - 🔭 I’m currently studying on **42 school**. See my [Cursus projects](https://github.com/prando-a/42Cursus)
 
-- 🌱 I’m currently learning **C programming language**
+- 🌱 I’m currently learning **C programming language** <br>
 
+&nbsp; [Watch all my repos](https://github.com/prando-a?tab=repositories)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
