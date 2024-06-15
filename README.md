@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently studying at **42School**, in Málaga. See my [Cursus projects](https://github.com/prando-a/42Cursus)
 
-- 🌱 I’m currently learning **C programming language** <br>
+-  ⚙ C programmer
+
+- 🌱 I’m currently learning **C++ and Python** <br>
 
 &nbsp; [Watch all my repos](https://github.com/prando-a?tab=repositories)
 <p align="left">
